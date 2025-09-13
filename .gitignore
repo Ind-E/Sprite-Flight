@@ -1,0 +1,9 @@
+Logs
+Library
+UserSettings
+UIElementsSchema
+
+
+omnisharp.json
+*.csproj
+*.sln
