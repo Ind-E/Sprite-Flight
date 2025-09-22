@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.apyra.nvim-unity": {
-      "version": "file:/home/indi/Documents/Unity/Packages/nvim-unity",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
